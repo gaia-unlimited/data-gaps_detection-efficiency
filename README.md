@@ -9,3 +9,5 @@ Work based on the "Completeness of the GaiaVerse" ([website](https://www.gaiaver
 ## Files in repository
 
 - [match_observations_detections.ipynb](match_observations_detections.ipynb): Using a scanning law, and a time series of individual star measurements, match the observations (predicted by the scanning law) to detections (published measurements).
+
+- [gaps_detection_efficiencies.ipynb](gaps_detection_efficiencies.ipynb): Estimate data taking gaps and detection efficiencies as a function of time and magnitude G.
